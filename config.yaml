@@ -1,0 +1,5 @@
+yolo:
+  model_path: models/yolo/yolov8_best.pt
+
+duckdb:
+  path: duckdb/demo.db
